@@ -19,6 +19,7 @@ Details of data and project were given by Udacity as below:
 ![MainHome](DataMetaData.png)
 
 ## File Description <a name="FileDescription"></a>
+<pre>
 |- README.md
 |- 1. Univariate_Exploration.ipynb      : Univariate visualisation worksheet
 |- 2. Bivariate_Exploration.ipynb       : Bivariate visualisation worksheet
@@ -26,6 +27,7 @@ Details of data and project were given by Udacity as below:
 |- 4. Explanatory_Polishing.ipynb       : Visualisation polishing worksheet
 |- diamond.csv                          : Dataset
 |- DataMetaData.png                     : Details of data and project
+</pre>
 
 ## Author <a name="Author"></a>
 [Yougun Han](https://www.linkedin.com/in/yougun-han/)
