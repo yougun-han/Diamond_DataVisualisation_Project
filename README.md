@@ -20,12 +20,12 @@ Details of data and project were given by Udacity as below:
 
 ## File Description <a name="FileDescription"></a>
 |- README.md
-|- 1. Univariate_Exploration.ipynb      - Univariate visualisation worksheet
-|- 2. Bivariate_Exploration.ipynb       - Bivariate visualisation worksheet
-|- 3. Multivariate_Exploration.ipynb    - Bivariate visualisation worksheet
-|- 4. Explanatory_Polishing.ipynb       - Visualisation polishing worksheet
-|- diamond.csv                          - Dataset
-|- DataMetaData.png                     - Details of data and project
+|- 1. Univariate_Exploration.ipynb      : Univariate visualisation worksheet
+|- 2. Bivariate_Exploration.ipynb       : Bivariate visualisation worksheet
+|- 3. Multivariate_Exploration.ipynb    : Bivariate visualisation worksheet
+|- 4. Explanatory_Polishing.ipynb       : Visualisation polishing worksheet
+|- diamond.csv                          : Dataset
+|- DataMetaData.png                     : Details of data and project
 
 ## Author <a name="Author"></a>
 [Yougun Han](https://www.linkedin.com/in/yougun-han/)
